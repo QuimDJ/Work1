@@ -1,4 +1,4 @@
-# Treballs
+# Treballs de Data Science amb la col·laboració de Juanjo Díez (https://github.com/jjdiezm)
 
 ## Treball 1
 Exemple de Webscraping d'un diari esportiu.
