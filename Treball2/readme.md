@@ -1,4 +1,4 @@
-# Practica2: Red Wine Quality
+# Treball2: Red Wine Quality
 Repositori per a la pràctica2 de Neteja i Validació de Dades fet amb R, codificat amb Rmd
 
 ## Per començar
